@@ -24,6 +24,7 @@ this is the code which i solved in the leetcode
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shekhbasir/2025DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0948-sort-an-array](https://github.com/shekhbasir/2025DSA/tree/master/0948-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -53,4 +54,8 @@ this is the code which i solved in the leetcode
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/shekhbasir/2025DSA/tree/master/0948-sort-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shekhbasir/2025DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
