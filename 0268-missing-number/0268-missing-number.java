@@ -1,17 +1,17 @@
 class Solution {
+
     public int missingNumber(int[] nums) {
+        int sumarr=0;
         int n=nums.length;
-        int count=0;
-        for(int i=0;i<=n;i++){
-            count+=i;
+        for(int i=0;i<nums.length;i++){
+            sumarr+=nums[i];
         }
-int arrsum=0;
-        for(int i=0;i<n;i++){
-            arrsum=arrsum+nums[i];
+        
+        // int count=0;
+       int count=n*(n+1)/2;
 
-        }
-
-        int k=count-arrsum;
+        int k=count-sumarr;
         return k;
+
     }
 }
