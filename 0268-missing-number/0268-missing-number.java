@@ -1,18 +1,16 @@
 class Solution {
-
     public int missingNumber(int[] nums) {
-        int sumarr=0;
-        for(int i=0;i<nums.length;i++){
-            sumarr=sumarr+nums[i];
+        HashMap<Integer,Integer> st=new HashMap<>();
+        for(int k:nums){
+            st.put(k,0);
         }
-        
-        int count=0;
+        int k=0;
         for(int i=0;i<=nums.length;i++){
-            count=count+i;
+            if(!st.containsKey(i)){
+                return i;
+            }
         }
 
-        int k=count-sumarr;
-        return k;
-
+return -1;
     }
 }
