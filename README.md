@@ -28,6 +28,7 @@ this is the code which i solved in the leetcode
 | ------- |
 | [0001-two-sum](https://github.com/shekhbasir/2025DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shekhbasir/2025DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/shekhbasir/2025DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/shekhbasir/2025DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/shekhbasir/2025DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shekhbasir/2025DSA/tree/master/0268-missing-number) |
@@ -41,6 +42,7 @@ this is the code which i solved in the leetcode
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shekhbasir/2025DSA/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/shekhbasir/2025DSA/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/shekhbasir/2025DSA/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
@@ -67,6 +69,7 @@ this is the code which i solved in the leetcode
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shekhbasir/2025DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/shekhbasir/2025DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/shekhbasir/2025DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shekhbasir/2025DSA/tree/master/0283-move-zeroes) |
 ## Hash Table
