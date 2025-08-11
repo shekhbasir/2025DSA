@@ -14,6 +14,7 @@ this is the code which i solved in the leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shekhbasir/2025DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/shekhbasir/2025DSA/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -29,6 +30,7 @@ this is the code which i solved in the leetcode
 | [0001-two-sum](https://github.com/shekhbasir/2025DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shekhbasir/2025DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/shekhbasir/2025DSA/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shekhbasir/2025DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shekhbasir/2025DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shekhbasir/2025DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shekhbasir/2025DSA/tree/master/0189-rotate-array) |
