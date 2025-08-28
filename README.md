@@ -8,6 +8,7 @@ this is the code which i solved in the leetcode
 | ------- |
 | [0007-reverse-integer](https://github.com/shekhbasir/2025DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shekhbasir/2025DSA/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/shekhbasir/2025DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shekhbasir/2025DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shekhbasir/2025DSA/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/shekhbasir/2025DSA/tree/master/1013-fibonacci-number) |
@@ -29,6 +30,7 @@ this is the code which i solved in the leetcode
 | ------- |
 | [0001-two-sum](https://github.com/shekhbasir/2025DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shekhbasir/2025DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/shekhbasir/2025DSA/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/shekhbasir/2025DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shekhbasir/2025DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shekhbasir/2025DSA/tree/master/0136-single-number) |
@@ -105,4 +107,8 @@ this is the code which i solved in the leetcode
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shekhbasir/2025DSA/tree/master/0560-subarray-sum-equals-k) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/shekhbasir/2025DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
