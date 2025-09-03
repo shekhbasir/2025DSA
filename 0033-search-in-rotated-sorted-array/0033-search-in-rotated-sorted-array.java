@@ -1,12 +1,9 @@
 class Solution {
     public int search(int[] nums, int target) {
-        int n=nums.length;
-        int ans=-1;
-        for(int i=0;i<n;i++){
-            if(nums[i]==target){
-                ans=i;
-            }
+        int kam=-1;
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]==target) kam=i;
         }
-        return ans;
+        return kam;
     }
 }
