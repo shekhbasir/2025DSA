@@ -27,7 +27,7 @@ class Solution {
 
        
         if (tl % 2 != 0) { 
-    return (double) arr[tl / 2];
+    return arr[tl / 2];
 } else { 
     return (arr[tl/2 - 1] + arr[tl/2]) / 2.0;
 }
