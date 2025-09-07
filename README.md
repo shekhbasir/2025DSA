@@ -50,6 +50,7 @@ this is the code which i solved in the leetcode
 | [0560-subarray-sum-equals-k](https://github.com/shekhbasir/2025DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/shekhbasir/2025DSA/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/shekhbasir/2025DSA/tree/master/0948-sort-an-array) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shekhbasir/2025DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shekhbasir/2025DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
@@ -114,6 +115,7 @@ this is the code which i solved in the leetcode
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shekhbasir/2025DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/shekhbasir/2025DSA/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/shekhbasir/2025DSA/tree/master/0792-binary-search) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shekhbasir/2025DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Bit Manipulation
 |  |
 | ------- |
