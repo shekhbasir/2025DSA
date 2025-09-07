@@ -53,6 +53,7 @@ this is the code which i solved in the leetcode
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shekhbasir/2025DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/shekhbasir/2025DSA/tree/master/1646-kth-missing-positive-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shekhbasir/2025DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2737-row-with-maximum-ones](https://github.com/shekhbasir/2025DSA/tree/master/2737-row-with-maximum-ones) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -137,4 +138,5 @@ this is the code which i solved in the leetcode
 | ------- |
 | [0048-rotate-image](https://github.com/shekhbasir/2025DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shekhbasir/2025DSA/tree/master/0054-spiral-matrix) |
+| [2737-row-with-maximum-ones](https://github.com/shekhbasir/2025DSA/tree/master/2737-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
