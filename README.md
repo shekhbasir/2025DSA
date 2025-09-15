@@ -142,4 +142,12 @@ this is the code which i solved in the leetcode
 | [0054-spiral-matrix](https://github.com/shekhbasir/2025DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/shekhbasir/2025DSA/tree/master/0074-search-a-2d-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/shekhbasir/2025DSA/tree/master/2737-row-with-maximum-ones) |
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/shekhbasir/2025DSA/tree/master/1078-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/shekhbasir/2025DSA/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
