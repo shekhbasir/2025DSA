@@ -96,6 +96,7 @@ this is the code which i solved in the leetcode
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shekhbasir/2025DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/shekhbasir/2025DSA/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/shekhbasir/2025DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/shekhbasir/2025DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shekhbasir/2025DSA/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shekhbasir/2025DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -145,6 +146,7 @@ this is the code which i solved in the leetcode
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/shekhbasir/2025DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shekhbasir/2025DSA/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
