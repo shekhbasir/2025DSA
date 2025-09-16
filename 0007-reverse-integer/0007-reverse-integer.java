@@ -1,20 +1,18 @@
 class Solution {
     public int reverse(int x) {
+        long rev = 0;  // use long to check overflow
+        int org = x;
 
-        int rev=0;
-        while(x!=0){
-int val=x%10;
-
-                if (rev > Integer.MAX_VALUE / 10 || (rev == Integer.MAX_VALUE / 10 && val > 7))
-                return 0;
-            if (rev < Integer.MIN_VALUE / 10 || (rev == Integer.MIN_VALUE / 10 && val < -8))
-                return 0;
-            
-            rev=(rev*10)+val;
-            x=x/10;
+        while (x != 0) {
+            int dig = x % 10;
+            rev = rev * 10 + dig;
+            x = x / 10;
         }
 
-         return rev;
-        
+        if (rev > Integer.MAX_VALUE || rev < Integer.MIN_VALUE) {
+            return 0; // overflow case
+        }
+
+        return (int) rev;
     }
 }
