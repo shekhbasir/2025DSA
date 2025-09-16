@@ -1,6 +1,6 @@
 class Solution {
     public int reverse(int x) {
-        long rev = 0;  // use long to check overflow
+        long rev = 0;  
         int org = x;
 
         while (x != 0) {
@@ -10,7 +10,7 @@ class Solution {
         }
 
         if (rev > Integer.MAX_VALUE || rev < Integer.MIN_VALUE) {
-            return 0; // overflow case
+            return 0; 
         }
 
         return (int) rev;
