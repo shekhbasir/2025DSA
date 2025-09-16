@@ -13,6 +13,7 @@ this is the code which i solved in the leetcode
 | [0189-rotate-array](https://github.com/shekhbasir/2025DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shekhbasir/2025DSA/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/shekhbasir/2025DSA/tree/master/1013-fibonacci-number) |
+| [2032-largest-odd-number-in-string](https://github.com/shekhbasir/2025DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -148,8 +149,13 @@ this is the code which i solved in the leetcode
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/shekhbasir/2025DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shekhbasir/2025DSA/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/shekhbasir/2025DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/shekhbasir/2025DSA/tree/master/1078-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/shekhbasir/2025DSA/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
