@@ -32,6 +32,7 @@ this is the code which i solved in the leetcode
 | ------- |
 | [0001-two-sum](https://github.com/shekhbasir/2025DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shekhbasir/2025DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/shekhbasir/2025DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shekhbasir/2025DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shekhbasir/2025DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shekhbasir/2025DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -149,6 +150,7 @@ this is the code which i solved in the leetcode
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shekhbasir/2025DSA/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/shekhbasir/2025DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/shekhbasir/2025DSA/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/shekhbasir/2025DSA/tree/master/0812-rotate-string) |
@@ -166,4 +168,8 @@ this is the code which i solved in the leetcode
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/shekhbasir/2025DSA/tree/master/0812-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shekhbasir/2025DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
