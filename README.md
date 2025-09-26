@@ -159,6 +159,7 @@ this is the code which i solved in the leetcode
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shekhbasir/2025DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/shekhbasir/2025DSA/tree/master/1078-remove-outermost-parentheses) |
 ## Greedy
 |  |
@@ -176,6 +177,7 @@ this is the code which i solved in the leetcode
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shekhbasir/2025DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/shekhbasir/2025DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -184,4 +186,9 @@ this is the code which i solved in the leetcode
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shekhbasir/2025DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/shekhbasir/2025DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shekhbasir/2025DSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
