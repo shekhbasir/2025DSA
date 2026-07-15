@@ -14,6 +14,7 @@ this is the code which i solved in the leetcode
 | [0268-missing-number](https://github.com/shekhbasir/2025DSA/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/shekhbasir/2025DSA/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/shekhbasir/2025DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/shekhbasir/2025DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Dynamic Programming
 |  |
 | ------- |
