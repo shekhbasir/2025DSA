@@ -1,16 +1,18 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        int org=x;
+
+        if(x<0) return false;
+
         int rev=0;
-        boolean kam=true;
-        while(x>0){
-            int dig=x%10;
-            rev=rev*10+dig;
-            x=x/10;
+        int kam=x;
+        while(kam>0){
+            int lastdigt=kam%10;
+            kam=kam/10;
+            rev=(rev*10)+lastdigt;
         }
-        if(rev!=org){
-            return false;
-        }
-        return true;
+
+        if(rev==x)return true;
+        return false;
+        
     }
 }
