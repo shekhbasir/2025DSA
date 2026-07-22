@@ -1,15 +1,17 @@
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        Arrays.sort(nums);
-        boolean kam=false;
-        for(int i=0;i<nums.length-1;i++){
-            if(nums[i]==nums[i+1]){
-                kam=true;
-            break;
-            }
-            
+        boolean kabhail=false;
+        HashSet<Integer> kam=new HashSet<>();
+        for(Integer val:nums){
+            kam.add(val);
         }
-        return kam;
+
         
+        if(nums.length!=kam.size()){
+            kabhail=true;
+        }
+
+
+        return kabhail;
     }
 }
