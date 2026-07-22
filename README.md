@@ -48,6 +48,7 @@ this is the code which i solved in the leetcode
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shekhbasir/2025DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/shekhbasir/2025DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shekhbasir/2025DSA/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/shekhbasir/2025DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shekhbasir/2025DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shekhbasir/2025DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shekhbasir/2025DSA/tree/master/0283-move-zeroes) |
@@ -70,6 +71,7 @@ this is the code which i solved in the leetcode
 | ------- |
 | [0075-sort-colors](https://github.com/shekhbasir/2025DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shekhbasir/2025DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/shekhbasir/2025DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shekhbasir/2025DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shekhbasir/2025DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shekhbasir/2025DSA/tree/master/0268-missing-number) |
@@ -110,6 +112,7 @@ this is the code which i solved in the leetcode
 | ------- |
 | [0001-two-sum](https://github.com/shekhbasir/2025DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/shekhbasir/2025DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/shekhbasir/2025DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shekhbasir/2025DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shekhbasir/2025DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shekhbasir/2025DSA/tree/master/0268-missing-number) |
