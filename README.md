@@ -60,6 +60,7 @@ this is the code which i solved in the leetcode
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shekhbasir/2025DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/shekhbasir/2025DSA/tree/master/1646-kth-missing-positive-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shekhbasir/2025DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shekhbasir/2025DSA/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2737-row-with-maximum-ones](https://github.com/shekhbasir/2025DSA/tree/master/2737-row-with-maximum-ones) |
 ## Divide and Conquer
 |  |
@@ -77,10 +78,12 @@ this is the code which i solved in the leetcode
 | [0242-valid-anagram](https://github.com/shekhbasir/2025DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shekhbasir/2025DSA/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/shekhbasir/2025DSA/tree/master/0948-sort-an-array) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shekhbasir/2025DSA/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/shekhbasir/2025DSA/tree/master/0948-sort-an-array) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shekhbasir/2025DSA/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Merge Sort
 |  |
 | ------- |
@@ -119,6 +122,7 @@ this is the code which i solved in the leetcode
 | [0268-missing-number](https://github.com/shekhbasir/2025DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/shekhbasir/2025DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/shekhbasir/2025DSA/tree/master/1207-unique-number-of-occurrences) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shekhbasir/2025DSA/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Binary Search
 |  |
 | ------- |
