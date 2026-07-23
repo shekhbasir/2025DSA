@@ -11,6 +11,7 @@ this is the code which i solved in the leetcode
 | [0048-rotate-image](https://github.com/shekhbasir/2025DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/shekhbasir/2025DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/shekhbasir/2025DSA/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/shekhbasir/2025DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/shekhbasir/2025DSA/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/shekhbasir/2025DSA/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/shekhbasir/2025DSA/tree/master/2032-largest-odd-number-in-string) |
@@ -146,6 +147,7 @@ this is the code which i solved in the leetcode
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shekhbasir/2025DSA/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/shekhbasir/2025DSA/tree/master/0258-add-digits) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shekhbasir/2025DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
@@ -226,4 +228,8 @@ this is the code which i solved in the leetcode
 | [0144-binary-tree-preorder-traversal](https://github.com/shekhbasir/2025DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shekhbasir/2025DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/shekhbasir/2025DSA/tree/master/0543-diameter-of-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/shekhbasir/2025DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
