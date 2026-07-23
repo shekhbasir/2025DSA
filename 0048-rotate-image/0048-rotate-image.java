@@ -1,8 +1,7 @@
 class Solution {
     public void rotate(int[][] matrix) {
         int n=matrix.length;
-        int r=n;
-        int c=matrix[0].length;
+        
         for(int i=0;i<n;i++){
             for(int j=i+1;j<n;j++){
                 int temp=matrix[i][j];
@@ -11,17 +10,20 @@ class Solution {
             }
         }
 
-
-        for(int i=0;i<n;i++){
-          int left=0;int right=n-1;
-          while(left<right){
-            int temp=matrix[i][left];
-            matrix[i][left]=matrix[i][right];
-            matrix[i][right]=temp;
-            left++;
-            right--;
-          }
+         for (int i = 0; i < n; i++) {
+            int low = 0, high = n - 1;
+            while (low < high) {
+                int temp = matrix[i][low];
+                matrix[i][low] = matrix[i][high];
+                matrix[i][high] = temp;
+                low++;
+                high--;
+            }
         }
-        
+
+         for (int[] row : matrix) {
+            System.out.println(Arrays.toString(row));
+        }
+
     }
 }
